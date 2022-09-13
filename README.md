@@ -39,8 +39,8 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Wasn't able to do the optional features
+ 
 ## License
 
     Copyright 2022 Hao Massimo Chen
